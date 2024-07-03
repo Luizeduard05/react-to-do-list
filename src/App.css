@@ -1,0 +1,13 @@
+.container-app {
+  background-color: #DCDFE0;
+  width: 600px;
+  margin: 0 auto;
+  border-radius: 5px;
+  padding: 0.5rem 2rem;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+}
+
+
+

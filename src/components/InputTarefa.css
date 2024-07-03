@@ -1,0 +1,22 @@
+.add-tarefa {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.add-tarefa input {
+  border-radius: 5px;
+  width: 300px;
+  height: 25px;
+  border: none;
+}
+
+.add-tarefa button{
+  background-color: #4CA0AE;
+  width: 50px;
+  height: 25px;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+}
+
