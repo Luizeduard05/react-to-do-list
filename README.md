@@ -19,7 +19,7 @@ Uma série de exemplos passo-a-passo que informam o que você deve executar para
 1. Clone o repositório:
 
 ```
-   git clone https://github.com/Luizeduard05/react-to-do-list
+   git clone https://github.com/Luizeduard05/react-to-do-list.git
 ```
 
 2. Navegue até o diretório do projeto:
